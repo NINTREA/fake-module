@@ -31,85 +31,85 @@
     
     "module": [
         {
-            "id":"",
+            "id":1,
             "route":"#",
             "products":"Sales",
             "icon":"images/logo/sales.png"
         },
         {
-            "id":"",
+            "id":2,
             "route":"#",
             "products":"Finance",
             "icon":"images/logo/finance.png"
         },
         {
-            "id":"",
+            "id":3,
             "route":"#",
             "products":"Services",
             "icon":"images/logo/services.png"
         },
         {
-            "id":"",
+            "id":4,
             "route":"#",
             "products":"Inventory",
             "icon":"images/logo/inventory.jpg"
         },
         {
-            "id":"",
+            "id":5,
             "route":"#",
             "products":"Human Resources",
             "icon":"images/logo/hrm.jpg"
         },
         {
-            "id":"",
+            "id":6,
             "route":"#",
             "products":"eLearning",
             "icon":"images/logo/eLearning.png"
         },
         {
-            "id":"",
+            "id":7,
             "route":"#",
             "products":"eDocuments",
             "icon":"images/logo/eDocuments.png"
         },
         {
-            "id":"",
+            "id":8,
             "route":"#",
             "products":"eApprovals",
             "icon":"images/logo/eApprovals.png"
         },
         {
-            "id":"",
+            "id":9,
             "route":"#",
             "products":"Settings",
             "icon":"images/logo/setting.png"
         },
         {
-            "id":"",
+            "id":10,
             "route":"#",
             "products":"Users",
             "icon":"images/logo/users.png"
         },
         {
-            "id":"",
+            "id":11,
             "route":"#",
             "products":"Privacy & Security",
             "icon":"images/logo/privacySecurity.png"
         },
         {
-            "id":"",
+            "id":12,
             "route":"#",
             "products":"Colors Mode",
             "icon":"images/logo/palette.jpg"
         },
         {
-            "id":"",
+            "id":13,
             "route":"#",
             "products":"Date & Time",
             "icon":"images/logo/clock.png"
         },
         {
-            "id":"",
+            "id":14,
             "route":"#",
             "products":"Language",
             "icon":"images/logo/language.png"
