@@ -1,86 +1,118 @@
-[
-	{
-		"id":"",
-		"route":"#",
-		"products":"Sales",
-		"icon":"images/logo/sales.png"
-	},
-	{
-		"id":"",
-		"route":"#",
-		"products":"Finance",
-		"icon":"images/logo/finance.png"
-	},
-	{
-		"id":"",
-		"route":"#",
-		"products":"Services",
-		"icon":"images/logo/services.png"
-	},
-	{
-		"id":"",
-		"route":"#",
-		"products":"Inventory",
-		"icon":"images/logo/inventory.jpg"
-	},
-	{
-		"id":"",
-		"route":"#",
-		"products":"Human Resources",
-		"icon":"images/logo/hrm.jpg"
-	},
-	{
-		"id":"",
-		"route":"#",
-		"products":"eLearning",
-		"icon":"images/logo/eLearning.png"
-	},
-	{
-		"id":"",
-		"route":"#",
-		"products":"eDocuments",
-		"icon":"images/logo/eDocuments.png"
-	},
-	{
-		"id":"",
-		"route":"#",
-		"products":"eApprovals",
-		"icon":"images/logo/eApprovals.png"
-	},
-	{
-		"id":"",
-		"route":"#",
-		"products":"Settings",
-		"icon":"images/logo/setting.png"
-	},
-	{
-		"id":"",
-		"route":"#",
-		"products":"Users",
-		"icon":"images/logo/users.png"
-	},
-	{
-		"id":"",
-		"route":"#",
-		"products":"Privacy & Security",
-		"icon":"images/logo/privacySecurity.png"
-	},
-	{
-		"id":"",
-		"route":"#",
-		"products":"Colors Mode",
-		"icon":"images/logo/palette.jpg"
-	},
-	{
-		"id":"",
-		"route":"#",
-		"products":"Date & Time",
-		"icon":"images/logo/clock.png"
-	},
-	{
-		"id":"",
-		"route":"#",
-		"products":"Language",
-		"icon":"images/logo/language.png"
-	}
-]
+{
+    "posts": [
+        {
+            "id": 1,
+            "title": "Post 1"
+        },
+        {
+            "id": 2,
+            "title": "Post 2"
+        },
+        {
+            "id": 3,
+            "title": "Post 3"
+        }
+    ],
+    "comments": [
+        {
+            "id": 1,
+            "body": "some comment",
+            "postId": 1
+        },
+        {
+            "id": 2,
+            "body": "some comment",
+            "postId": 1
+        }
+    ],
+    "profile": {
+        "name": "typicode"
+    },
+    
+    "module": [
+        {
+            "id":"",
+            "route":"#",
+            "products":"Sales",
+            "icon":"images/logo/sales.png"
+        },
+        {
+            "id":"",
+            "route":"#",
+            "products":"Finance",
+            "icon":"images/logo/finance.png"
+        },
+        {
+            "id":"",
+            "route":"#",
+            "products":"Services",
+            "icon":"images/logo/services.png"
+        },
+        {
+            "id":"",
+            "route":"#",
+            "products":"Inventory",
+            "icon":"images/logo/inventory.jpg"
+        },
+        {
+            "id":"",
+            "route":"#",
+            "products":"Human Resources",
+            "icon":"images/logo/hrm.jpg"
+        },
+        {
+            "id":"",
+            "route":"#",
+            "products":"eLearning",
+            "icon":"images/logo/eLearning.png"
+        },
+        {
+            "id":"",
+            "route":"#",
+            "products":"eDocuments",
+            "icon":"images/logo/eDocuments.png"
+        },
+        {
+            "id":"",
+            "route":"#",
+            "products":"eApprovals",
+            "icon":"images/logo/eApprovals.png"
+        },
+        {
+            "id":"",
+            "route":"#",
+            "products":"Settings",
+            "icon":"images/logo/setting.png"
+        },
+        {
+            "id":"",
+            "route":"#",
+            "products":"Users",
+            "icon":"images/logo/users.png"
+        },
+        {
+            "id":"",
+            "route":"#",
+            "products":"Privacy & Security",
+            "icon":"images/logo/privacySecurity.png"
+        },
+        {
+            "id":"",
+            "route":"#",
+            "products":"Colors Mode",
+            "icon":"images/logo/palette.jpg"
+        },
+        {
+            "id":"",
+            "route":"#",
+            "products":"Date & Time",
+            "icon":"images/logo/clock.png"
+        },
+        {
+            "id":"",
+            "route":"#",
+            "products":"Language",
+            "icon":"images/logo/language.png"
+        }
+    ]
+}
